@@ -1,22 +1,5 @@
 #  File: Grid.py
 
-#  Description:
-
-#  Student Name: Yaohan Jiang
-
-#  Student UT EID: yj3948	
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Nov. 11
-
-#  Date Last Modified:
 
 def main(): 
   in_file = open("./grid.txt", "r")
