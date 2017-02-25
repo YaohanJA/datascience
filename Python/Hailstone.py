@@ -1,18 +1,6 @@
 #  File: Hailstone.py
 
-#  Description:
 
-#  Student Name:Yaohan Jiang    
-
-#  Student UT EID: yj3948           
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created:Sep.27
-
-#  Date Last Modified:
 
 def main():
     lo = int(input("Enter starting number of the range: "))
