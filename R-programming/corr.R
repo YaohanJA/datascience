@@ -5,7 +5,6 @@
 # monitors meet the threshold requirement, then the function should return a numeric vector of length 0.
 
 corr <- function(directory, threshold = 0 ) {
-    directory <- "/Users/Lotusjiang/Desktop/DataScience /Course 2 R programming/specdata"
     corr.list <- NULL
     id <- 1:332
     dat <- NULL
