@@ -3,17 +3,6 @@
 
 #  Description: Day of the week, given a year
 
-#  Student Name: Yaohan Jiang   
-
-#  Student UT EID: yj3948
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Sep.21
-
-#  Date Last Modified:
 
 year = eval(input("Enter year: "))
 while (year<1900) or (year>2100):
