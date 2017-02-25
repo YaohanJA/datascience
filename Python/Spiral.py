@@ -1,18 +1,6 @@
 #  File: Spiral.py
 
-#  Description:
 
-#  Student Name:Yaohan Jiang	
-
-#  Student UT EID: yj3948
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Nov.18
-
-#  Date Last Modified:
 def spiral(n, target):
     myarray = [[0]* n for i in range(n)]
     x,y = n-1,n-1  # initial location
