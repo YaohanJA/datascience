@@ -1,18 +1,5 @@
 #  File: recursion3.py 
 
-#  Description:
-
-#  Student Name: Yaohan Jiang
-
-#  Student UT EID: yj3948   
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Oct.28
-
-#  Date Last Modified:
 
 
 # Given an array of ints, compute recursively if the array contains a 6.
