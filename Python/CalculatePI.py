@@ -2,17 +2,6 @@
 
 #  Description: pi random
 
-#  Student Name: Yaohan Jiang
-
-#  Student UT EID: yj3948   
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Oct.13
-
-#  Date Last Modified:
 
 import math
 import random
