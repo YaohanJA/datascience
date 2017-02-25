@@ -1,18 +1,6 @@
 #  File: CreditCard.py
 
-#  Description:
 
-#  Student Name: Yaohan Jiang	
-
-#  Student UT EID: yj3948
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Nov .16
-
-#  Date Last Modified:
 
  # This function checks if a credit card number is valid
 
