@@ -1,18 +1,6 @@
 #  File: Goldbach.py
 
-#  Description:
 
-#  Student Name: Yaohan Jiang   
-
-#  Student UT EID: yj3948
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Oct. 10
-
-#  Date Last Modified:
 
 def is_prime (num):
   divisor = 2
