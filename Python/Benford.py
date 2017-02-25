@@ -1,17 +1,5 @@
 #  Description:
 
-#  Student Name: Yaohan Jiang
-
-#  Student UT EID: yj3948
-
-#  Course Name: CS 303E
-
-#  Unique Number: 51200
-
-#  Date Created: Nov.22
-
-#  Date Last Modified:
-
 
 def main():
   # create an empty dictionary
